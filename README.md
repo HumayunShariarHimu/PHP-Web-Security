@@ -2,28 +2,18 @@
 
 > A curated and organized collection of resources related to **PHP-Web-Security**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
 
 # PHP-Web-Security
 
-# Contact With Me:
+> A curated and organized collection of resources related to **PHP-Web-Security**.
 
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitch logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Proton%20Mail&logo=protonmail&label=&color=7341FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="proton mail logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
-  </a>
+**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
-  # 💰 You can help me by Donating
-  
-Secure PHP web apps with best practices: SQLi prevention, XSS protection, CSRF tokens, password hashing, and secure session management.
+# PHP-Web-Security
 
 # Contents
 
